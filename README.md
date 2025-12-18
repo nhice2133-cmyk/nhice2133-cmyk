@@ -17,8 +17,8 @@
   
   Hello! I'm **Josephus Jay Pogoy**, a passionate developer. My username is inspired by the **CMYK** color model, representing the intersection of **code and design**.
   
-  - 🔭 I’m currently working on **[Add your latest project name here]**
-  - 🌱 I’m currently learning **[Add what you are studying]**
+  - 🔭 I’m currently working on a **Secure User Management System** (PHP/MySQL)
+  - 🌱 I’m currently learning **Mobile App Development (Flutter/Dart)**
   - ⚡ Fun fact: **Cyan, Magenta, Yellow, and Key (Black) are the four ink plates used in color printing!**
   
 </div>
@@ -27,10 +27,16 @@
 
 <h3 align="center">🛠️ Tech Stack</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
@@ -56,9 +62,6 @@
   </a>
   <a href="https://www.instagram.com/_jpogz24/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
